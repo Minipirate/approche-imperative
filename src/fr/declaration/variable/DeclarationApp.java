@@ -23,6 +23,9 @@ public class DeclarationApp {
 		boolean bo = true;
 		String st = "coucou";
 		
+		int a = 053;
+		System.out.println(a); //donnera 43 car le 0 fait passer en base octale 
+		
 		System.out.println(b);
 		System.out.println(s);
 		System.out.println(i);
